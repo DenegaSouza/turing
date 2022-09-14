@@ -16,8 +16,7 @@ print(f"\n{poli} Cabeçalho {poli}\n")
 
 for x in range (20, -1, -1):
     print(x)
-
-sleep(2)
+    sleep(2)
 
 print("Feliz dia do programador!!!!")
 
